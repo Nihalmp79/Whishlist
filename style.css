@@ -76,3 +76,9 @@ body {
 .del-btn {
   color: var(--text-color-primary);
 }
+
+.todo-txt{
+  color: white;
+  font-size: large;
+}
+
